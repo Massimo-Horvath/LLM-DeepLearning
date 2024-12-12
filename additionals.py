@@ -111,3 +111,5 @@ model.to(device)
 letter = 'a'
 file_path = f"./saved_models/{letter}_models_params.json"
 params = load_params(file_path)
+
+# https://www.kaggle.com/code/follydogbafromuald/notebook293d44eb49/edit
